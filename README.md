@@ -26,6 +26,10 @@ Technologies
 
 Workflow Concept
 
+## Workflow Screenshot
+
+![RAG Email Customer Support Agent n8n Workflow](rag-email-workflow.png)
+
 Incoming Support Email
 ↓
 Retrieve Relevant Knowledge
