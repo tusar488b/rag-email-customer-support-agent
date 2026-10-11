@@ -26,13 +26,13 @@ Technologies
 
 Workflow Concept
 
-## Workflow Screenshot
+## Workflow Screenshots
 
 ### Screenshot 1 — Main Workflow
-![RAG Email Customer Support Agent Main Workflow](rag-email-workflow.png)
+![RAG Email Customer Support Agent Main Workflow](Screenshot_20261011-053431_Drive.jpg)
 
 ### Screenshot 2 — Workflow Details
-![RAG Email Customer Support Agent Workflow Details](rag-email-workflow-2.png)
+![RAG Email Customer Support Agent Workflow Details](Screenshot_20261011-053433_Drive.jpg)
 
 Incoming Support Email
 ↓
